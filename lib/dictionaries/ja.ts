@@ -19,6 +19,10 @@ const ja: Dictionary = {
     heroSub:
       "{n} 個のレシピ拡大・人数調整・ベーカーズ・パーセントツール。レシピを貼って倍率を選ぶだけ — 全材料を自動で再計算。無料、ブラウザの中で完結。",
     browseAll: "すべてのツールを見る",
+    pinned: "ピン留め",
+    pin: "トップに固定",
+    unpin: "固定を解除",
+    popular: "人気のツール",
     categoriesTitle: "カテゴリー",
     featuredTitle: "人気のツール",
     trustLocal: "ファイルは端末内に留存",
@@ -74,6 +78,8 @@ const ja: Dictionary = {
     howTo: "使い方",
     faq: "よくある質問",
     related: "関連ツール",
+    nextStep: "次のステップ",
+    copyLink: "リンクをコピー",
     privacyNote:
       "このツールは完全にブラウザ内で動作します。データは端末から出ず、サーバーへアップロードされることはありません。",
     inCategory: "{category}のその他のツール",

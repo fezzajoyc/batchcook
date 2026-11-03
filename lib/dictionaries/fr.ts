@@ -21,6 +21,10 @@ const fr: Dictionary = {
     heroSub:
       "{n} outils pour adapter des recettes, ajuster les portions et calculer les pourcentages de boulanger. Collez la recette, choisissez un facteur — chaque ingrédient recalculé, gratuitement, dans votre navigateur.",
     browseAll: "Voir tous les outils",
+    pinned: "Épinglés",
+    pin: "Épingler",
+    unpin: "Désépingler",
+    popular: "Populaires en ce moment",
     categoriesTitle: "Catégories",
     featuredTitle: "Outils populaires",
     trustLocal: "Vos fichiers restent sur votre appareil",
@@ -79,6 +83,8 @@ const fr: Dictionary = {
     howTo: "Mode d'emploi",
     faq: "Questions fréquentes",
     related: "Outils associés",
+    nextStep: "Étapes suivantes",
+    copyLink: "Copier le lien",
     privacyNote:
       "Cet outil s'exécute entièrement dans votre navigateur. Vos données ne quittent jamais votre appareil — elles ne sont envoyées à aucun serveur.",
     inCategory: "Plus d'outils dans {category}",
